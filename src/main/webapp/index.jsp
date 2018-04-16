@@ -5,9 +5,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insult Generator</title>
+<title>Insult Generator - Cloned from the repository</title>
 </head>
 <body>
+    hello Openshift - this is my first introduction.
 <%
 out.println(new InsultGenerator().generateInsult());
 %>
